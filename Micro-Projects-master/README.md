@@ -4,6 +4,3 @@ Website which consists of list of all projects done by first year students at ML
 
 
 
-CSE - G
-
-I - Sem
