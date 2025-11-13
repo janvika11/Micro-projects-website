@@ -1,8 +1,8 @@
 ## Micro Projects Website
-This is Website which consists of list of all micro projects done by first year students at MLRIT.
+This is a responsive web platform for our college that archives and showcases student micro-projects, enabling easy access, search, and prevention of redundant work.
 Done by Janvika and team
 
 ## Deployment
-Website: [https://janvika11.github.io/Micro-projects-website/](https://janvika11.github.io/Micro-projects-website/)
+Website: [Micro Projects Website](https://janvika11.github.io/Micro-projects-website/)
 
 
